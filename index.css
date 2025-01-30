@@ -1,0 +1,18 @@
+h1 {
+    font-size: 30px;
+    color: rgb(22, 166, 185);
+}
+a {
+    font-size: 30px;
+    color: rgb(3, 45, 53);
+    font-style: normal;
+}
+.output {
+    font-size: 30px;
+    color: rgb(0, 0, 224);
+    font-style: italic;
+}
+button {
+    font-size: 20px;
+    color: rgb(0, 132, 255);
+}
